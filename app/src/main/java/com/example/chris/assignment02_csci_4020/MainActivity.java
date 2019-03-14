@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import com.example.chris.assignment02_csci_4020.randomSequence;
-
+import com.example.chris.assignment02_csci_4020.correctSequence;
 import java.util.Vector;
 
 public class MainActivity extends AppCompatActivity {
